@@ -1,5 +1,5 @@
 ---
-title: Quickstart
+title: Quickstar
 intro: 'Get started using {% data variables.product.product_name %} to manage Git repositories and collaborate with others.'
 versions:
   fpt: '*'
@@ -22,4 +22,4 @@ children:
   - /github-glossary
 redirect_from:
   - /github/getting-started-with-github/quickstart
----
+---/Quickstar-navailable-stop-use-/quickstart/
